@@ -1,0 +1,26 @@
+{
+  "name": "tcpforwarder",
+  "version": "0.0.0",
+  "description": "A simple TCP Forwarder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+  	"tcpforwarder": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yonle/tcpforwarder.git"
+  },
+  "keywords": [
+    "tcp",
+    "forwarder"
+  ],
+  "author": "Yonle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yonle/tcpforwarder/issues"
+  },
+  "homepage": "https://github.com/Yonle/tcpforwarder#readme"
+}
